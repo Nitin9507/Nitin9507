@@ -35,6 +35,7 @@
 | **NoctisOne** | Multi-tenant RAG + voice-agent system, 6+ tenants, every query isolated by `client_id` | FastAPI · pgvector · multi-provider LLM layer |
 | **RentAway** | Async rental platform, 25+ domain modules, 3 permission tiers, RAG assistant with source citations | FastAPI · SQLAlchemy 2.0 · asyncpg · S3 |
 | **Kurik AI** | Healthcare ingestion pipeline classifying ~500 patient documents/month | Flask · AWS Textract · DocuSeal |
+| **Talyn360** | Applicant tracking system — postings, applications, requisitions, live status; AI screening ranked 1,000+ resumes and halved time-to-shortlist | Python · WebSockets · Celery/Redis · OpenAI · Firebase |
 | **Taskdeck** | Full-stack task & project dashboard — Kanban, server-side search/filter/pagination, audit trail | React 18 · Vite · FastAPI · PostgreSQL |
 
 <!---
